@@ -4,7 +4,7 @@
 
 <html>
 <head>
-<title>Bingo Keno</title>
+<title>Bingo Keno Em Laravel v 0.1</title>
 </head>
 <body>
 </body>
